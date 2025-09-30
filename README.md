@@ -43,26 +43,6 @@ Interactive financial dashboard for comprehensive cashflow management and analys
 
 *Try the sample data feature to explore all functionalities*
 
-## 📊 Quick Start
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/emanuelefarinini/financial-dashboard.git
-   cd financial-dashboard
-   ```
-
-2. **Open in browser**
-   ```bash
-   open index.html
-   # or
-   python -m http.server 8000  # for local server
-   ```
-
-3. **Start analyzing**
-   - Click "Add Sample Data" to populate with realistic financial data
-   - Explore interactive charts and real-time metrics
-   - Generate professional PDF reports with insights
-   - Test responsive design on different screen sizes
 
 ## 📈 Professional Services
 
@@ -77,9 +57,9 @@ As a **Chemometric Consultant** with expertise in data analysis and mathematical
 - **Training & Support**: User training and technical documentation
 
 **Contact for Consulting**:
-- **Email**: info@chemometricsolutions.com
+- **Email**: farinini@chemometricsolutions.com
 - **Website**: [chemometricsolutions.com](https://chemometricsolutions.com)
-- **LinkedIn**: [Dr. Emanuele Farinini](https://linkedin.com/in/emanuelefarinini)
+- **LinkedIn**: [Dr. Emanuele Farinini, PhD](https://www.linkedin.com/in/emanuele-farinini-609a0a147/)
 
 ## 🏆 Technical Highlights
 
@@ -184,7 +164,7 @@ const reportConfig = {
 - **Education**: PhD in Analytical Chemistry
 - **Experience**: 10+ years in data analysis and mathematical modeling
 - **Website**: [chemometricsolutions.com](https://chemometricsolutions.com)
-- **Email**: consulting@chemometricsolutions.com
+- **Email**: farinini@chemometricsolutions.com
 
 ## 📄 License
 

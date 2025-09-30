@@ -4,7 +4,7 @@
 > 
 > *Chemometric Consultant & Data Analysis Expert*
 
-![Dashboard Preview](./assets/dashboard-preview.png)
+![Dashboard Preview](./demo/screenshots/Pic1.png)
 
 ## 🔬 Overview
 

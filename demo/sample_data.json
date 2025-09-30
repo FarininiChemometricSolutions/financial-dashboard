@@ -1,0 +1,89 @@
+{
+  "sampleTransactions": [
+    {
+      "description": "Salary January",
+      "amount": 3500,
+      "type": "income",
+      "category": "salary",
+      "date": "2024-01-01"
+    },
+    {
+      "description": "Rent Payment",
+      "amount": -800,
+      "type": "expense",
+      "category": "utilities",
+      "date": "2024-01-02"
+    },
+    {
+      "description": "Grocery Shopping",
+      "amount": -120,
+      "type": "expense",
+      "category": "food",
+      "date": "2024-01-05"
+    },
+    {
+      "description": "Gas Station",
+      "amount": -60,
+      "type": "expense",
+      "category": "transport",
+      "date": "2024-01-08"
+    },
+    {
+      "description": "Consulting Project",
+      "amount": 1200,
+      "type": "income",
+      "category": "business",
+      "date": "2024-01-15"
+    },
+    {
+      "description": "Restaurant Dinner",
+      "amount": -85,
+      "type": "expense",
+      "category": "entertainment",
+      "date": "2024-01-18"
+    },
+    {
+      "description": "Medical Checkup",
+      "amount": -150,
+      "type": "expense",
+      "category": "healthcare",
+      "date": "2024-01-22"
+    },
+    {
+      "description": "Online Course",
+      "amount": -200,
+      "type": "expense",
+      "category": "education",
+      "date": "2024-01-25"
+    },
+    {
+      "description": "Investment Dividend",
+      "amount": 300,
+      "type": "income",
+      "category": "investment",
+      "date": "2024-01-30"
+    },
+    {
+      "description": "February Salary",
+      "amount": 3500,
+      "type": "income",
+      "category": "salary",
+      "date": "2024-02-01"
+    }
+  ],
+  "description": "Sample financial data for demonstrating dashboard functionality. Includes realistic income and expense transactions across multiple categories.",
+  "totalIncome": 8500,
+  "totalExpenses": 1415,
+  "netCashflow": 7085,
+  "categories": [
+    "salary",
+    "business", 
+    "investment",
+    "food",
+    "transport",
+    "utilities",
+    "entertainment",
+    "healthcare",
+    "education"
+  ]
+}

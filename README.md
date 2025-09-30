@@ -39,7 +39,7 @@ Interactive financial dashboard for comprehensive cashflow management and analys
 
 ## 🚀 Live Demo
 
-[**🔗 View Live Dashboard**](https://emanuelefarinini.github.io/financial-dashboard/)
+[**🔗 View Live Dashboard**](https://farininichemometricsolutions.github.io/financial-dashboard/)
 
 *Try the sample data feature to explore all functionalities*
 
